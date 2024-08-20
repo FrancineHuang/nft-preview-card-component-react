@@ -6,5 +6,9 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  @apply bg-very-dark-blue-main;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+
+}
