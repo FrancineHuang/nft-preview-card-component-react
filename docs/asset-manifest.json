@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nft-preview-card-component-react/static/css/main.3c76a98d.css",
-    "main.js": "/nft-preview-card-component-react/static/js/main.f612e4e1.js",
+    "main.js": "/nft-preview-card-component-react/static/js/main.bc99bc6a.js",
     "index.html": "/nft-preview-card-component-react/index.html",
     "main.3c76a98d.css.map": "/nft-preview-card-component-react/static/css/main.3c76a98d.css.map",
-    "main.f612e4e1.js.map": "/nft-preview-card-component-react/static/js/main.f612e4e1.js.map"
+    "main.bc99bc6a.js.map": "/nft-preview-card-component-react/static/js/main.bc99bc6a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c76a98d.css",
-    "static/js/main.f612e4e1.js"
+    "static/js/main.bc99bc6a.js"
   ]
 }
